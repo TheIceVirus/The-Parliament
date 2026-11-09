@@ -1,0 +1,19 @@
+# One-click hosting on Render (render.com → New → Blueprint → pick this repository).
+# The disk keeps uploads, the database and passwords safe across restarts and updates.
+services:
+  - type: web
+    name: briar-chronicles
+    runtime: python
+    plan: starter
+    buildCommand: "echo 'no build step — Python standard library only'"
+    startCommand: python server.py
+    healthCheckPath: /api/me
+    envVars:
+      - key: BRIAR_HOST
+        value: 0.0.0.0
+      - key: BRIAR_DATA
+        value: /var/data
+    disk:
+      name: archive
+      mountPath: /var/data
+      sizeGB: 1

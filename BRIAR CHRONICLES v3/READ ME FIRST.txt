@@ -1,0 +1,57 @@
+BRIAR CHRONICLES  (version 3)
+==============================
+
+
+!!  DELETE THE OLD COPY FIRST  !!
+---------------------------------
+If you ever ran an older BRIAR CHRONICLES, the old one can keep running
+and make it look like nothing changed. Before anything else:
+
+  1. Close EVERY black BRIAR CHRONICLES window.
+     Not sure if one is still open? Restart your computer.
+
+  2. Did you upload art to the old copy and want to keep it?
+     Open the OLD BRIAR CHRONICLES folder, copy the folder called "data",
+     and paste it into THIS new folder (next to server.py).
+     Didn't upload anything? Skip this step.
+
+  3. Delete the OLD BRIAR CHRONICLES folder and the OLD zip file,
+     so you never open them by accident.
+
+  4. From now on, only use THIS folder: "BRIAR CHRONICLES v3".
+
+
+HOW TO START IT
+---------------
+  1. Make sure this folder is unzipped. If you are looking at it inside
+     the zip window, close it, right-click the zip, choose "Extract All",
+     and open the extracted folder instead.
+  2. Double-click  START BRIAR CHRONICLES.bat
+     (On a Mac: double-click START BRIAR CHRONICLES.command)
+  3. Your browser opens the site. Leave the black window open while you
+     use it. Close the black window when you're done.
+
+  The site needs Python (free). If the black window says Python is
+  missing, install it from https://www.python.org/downloads/ and tick
+  "Add python.exe to PATH" during setup. Then start it again.
+
+
+HOW TO CHECK YOU HAVE THE NEW ONE
+---------------------------------
+You should see "version 3" in three places:
+  * the black window says:  BRIAR CHRONICLES (version 3) is open
+  * the very bottom of the website says:  VERSION 3
+  * your dashboard says:  VERSION 3  under your name
+
+No "version 3" anywhere? An old copy is still running.
+Close all the black windows and start this one again.
+(This version will also warn you itself if an old copy is still open.)
+
+
+SIGN IN
+-------
+Scroll to the bottom of any page and click "The keeper's door".
+Password:  sutrah
+
+Everything else (uploading, frames, layout, fonts, links) is explained
+in HOW TO USE.md. You can open that file with Notepad.

@@ -1,0 +1,620 @@
+{
+ "version": 1,
+ "artworks": [
+  {
+   "id": "e8da6fecf400",
+   "image": "/uploads/e8da6fecf400.jpg",
+   "thumb": "/uploads/e8da6fecf400-t.webp",
+   "width": 2712,
+   "height": 2597,
+   "created": 1794181939,
+   "updated": 1794181939,
+   "title": "Aleera Tepes",
+   "description": "Aleera Tepes, the youngest of the Three Brides of Dracula.",
+   "tags": [
+    "vampire",
+    "bride of dracula",
+    "aleera",
+    "red head"
+   ],
+   "category": "Character Art",
+   "links": [
+    {
+     "label": "https://x.com/TheIceVirus/status/2107345213715066917?a=nA55XAHuBylFoAFZyGk&s=20",
+     "url": "https://x.com/TheIceVirus/status/2107345213715066917?a=nA55XAHuBylFoAFZyGk&s=20"
+    }
+   ],
+   "year": "2026",
+   "featured": false,
+   "published": true,
+   "alt": "",
+   "display": {
+    "fit": "contain",
+    "position": "center",
+    "size": "standard",
+    "background": "crimson",
+    "border": "silver",
+    "animation": "fade"
+   }
+  },
+  {
+   "id": "aa6ffcdfdfa2",
+   "title": "The Weeping Jester",
+   "description": "A sad jester on a stool, crying and holding a wilting rose.",
+   "tags": [
+    "jester",
+    "harlequin",
+    "melancholy",
+    "rose",
+    "character"
+   ],
+   "category": "Character Art",
+   "links": [
+    {
+     "label": "Watch on Twitch",
+     "url": "https://www.twitch.tv/theicevirus"
+    }
+   ],
+   "year": "",
+   "featured": true,
+   "published": true,
+   "alt": "A jester in a blue and black harlequin hat sits slumped on a wooden stool, one tear falling, holding a drooping red rose beneath a glowing blue diamond.",
+   "display": {
+    "fit": "contain",
+    "position": "center",
+    "size": "tall",
+    "background": "stained",
+    "border": "gothic",
+    "animation": "glow"
+   },
+   "image": "/uploads/aa6ffcdfdfa2.webp",
+   "thumb": "/uploads/aa6ffcdfdfa2.webp",
+   "width": 1296,
+   "height": 2000,
+   "created": 1794181359,
+   "updated": 1794181369,
+   "seedKey": "jester"
+  },
+  {
+   "id": "a0b94b71685c",
+   "title": "Devotion",
+   "description": "Two characters sharing a kiss, surrounded by little red hearts.",
+   "tags": [
+    "couple",
+    "hearts",
+    "embrace",
+    "character"
+   ],
+   "category": "Illustration",
+   "links": [
+    {
+     "label": "Watch on Twitch",
+     "url": "https://www.twitch.tv/theicevirus"
+    }
+   ],
+   "year": "",
+   "featured": false,
+   "published": true,
+   "alt": "A dark-skinned woman in an orange beret embraces and kisses a blonde armored woman, surrounded by floating red hearts.",
+   "display": {
+    "fit": "contain",
+    "position": "center",
+    "size": "wide",
+    "background": "ivory",
+    "border": "crimson",
+    "animation": "fade"
+   },
+   "image": "/uploads/a0b94b71685c.jpeg",
+   "thumb": "/uploads/a0b94b71685c.jpeg",
+   "width": 646,
+   "height": 480,
+   "created": 1794181360,
+   "updated": 1794181369,
+   "seedKey": "devotion"
+  },
+  {
+   "id": "e869eee72991",
+   "seedKey": "king",
+   "title": "The King in Yellow",
+   "description": "Sutrah, the King in Yellow. One of his own characters.",
+   "tags": [
+    "king in yellow",
+    "sutrah",
+    "original",
+    "yellow",
+    "horror"
+   ],
+   "category": "Original Characters",
+   "links": [
+    {
+     "label": "Original post on X",
+     "url": "https://x.com/TheIceVirus/status/2087613364130504891"
+    }
+   ],
+   "year": "2026",
+   "featured": true,
+   "published": true,
+   "alt": "A dark-skinned figure with wild pale-blonde hair, a yellow suit and black tie grins widely beneath a scribbled golden crown, half in a spotlight against black.",
+   "display": {
+    "fit": "cover",
+    "position": "top",
+    "size": "tall",
+    "background": "void",
+    "border": "gilded",
+    "animation": "glow",
+    "mat": "none",
+    "caption": "hover"
+   },
+   "image": "/uploads/e869eee72991.jpg",
+   "thumb": "/uploads/e869eee72991.jpg",
+   "width": 1812,
+   "height": 2048,
+   "created": 1794207803,
+   "updated": 1794207901
+  },
+  {
+   "id": "a67b7127b8bd",
+   "seedKey": "storm",
+   "title": "Now the Thunder Is Coming",
+   "description": "His own design for Storm from the X-Men.",
+   "tags": [
+    "storm",
+    "x-men",
+    "marvel",
+    "rain"
+   ],
+   "category": "Fan Art",
+   "links": [
+    {
+     "label": "Original post on X",
+     "url": "https://x.com/TheIceVirus/status/2054607594015293693"
+    }
+   ],
+   "year": "2026",
+   "featured": true,
+   "published": true,
+   "alt": "Storm with huge white hair and glowing white eyes, in a black suit with a silver sash, standing in grey rain.",
+   "display": {
+    "fit": "cover",
+    "position": "top",
+    "size": "tall",
+    "background": "stone",
+    "border": "silver",
+    "animation": "ember",
+    "mat": "none",
+    "caption": "hover"
+   },
+   "image": "/uploads/a67b7127b8bd.jpg",
+   "thumb": "/uploads/a67b7127b8bd.jpg",
+   "width": 1589,
+   "height": 2048,
+   "created": 1794207804,
+   "updated": 1794207901
+  },
+  {
+   "id": "34be4ad372e9",
+   "seedKey": "scarlet",
+   "title": "Scarlet Witch",
+   "description": "Scarlet Witch fan art.",
+   "tags": [
+    "scarlet witch",
+    "marvel",
+    "red"
+   ],
+   "category": "Fan Art",
+   "links": [
+    {
+     "label": "Original post on X",
+     "url": "https://x.com/TheIceVirus/status/2057211167568007422"
+    }
+   ],
+   "year": "2026",
+   "featured": false,
+   "published": true,
+   "alt": "Scarlet Witch with long dark red hair and glowing red eyes in a black crop top, fists raised against a red background.",
+   "display": {
+    "fit": "cover",
+    "position": "top",
+    "size": "standard",
+    "background": "crimson",
+    "border": "crimson",
+    "animation": "rise",
+    "mat": "none",
+    "caption": "hover"
+   },
+   "image": "/uploads/34be4ad372e9.jpg",
+   "thumb": "/uploads/34be4ad372e9.jpg",
+   "width": 1369,
+   "height": 2048,
+   "created": 1794207805,
+   "updated": 1794207901
+  },
+  {
+   "id": "332f304c0b61",
+   "seedKey": "magik",
+   "title": "Magik",
+   "description": "His design for Magik, the character he draws the most.",
+   "tags": [
+    "magik",
+    "x-men",
+    "marvel",
+    "limbo"
+   ],
+   "category": "Fan Art",
+   "links": [
+    {
+     "label": "Original post on X",
+     "url": "https://x.com/TheIceVirus/status/2073162590814097571"
+    }
+   ],
+   "year": "2026",
+   "featured": true,
+   "published": true,
+   "alt": "Magik with long blonde hair and horned bangs in a black and yellow X-Men suit, armored spiked gauntlet on one arm, against a yellow splash.",
+   "display": {
+    "fit": "cover",
+    "position": "top",
+    "size": "large",
+    "background": "moonlit",
+    "border": "gothic",
+    "animation": "glow",
+    "mat": "none",
+    "caption": "hover"
+   },
+   "image": "/uploads/332f304c0b61.jpg",
+   "thumb": "/uploads/332f304c0b61.jpg",
+   "width": 1854,
+   "height": 2048,
+   "created": 1794207806,
+   "updated": 1794207901
+  },
+  {
+   "id": "6622f36468d2",
+   "seedKey": "magik-ukiyo",
+   "title": "Magik, Under a Red Sun",
+   "description": "He was practicing a Japanese-inspired style and it turned into a Magik piece.",
+   "tags": [
+    "magik",
+    "marvel",
+    "ukiyo-e",
+    "sword"
+   ],
+   "category": "Fan Art",
+   "links": [
+    {
+     "label": "Original post on X",
+     "url": "https://x.com/TheIceVirus/status/2044198097526632918"
+    }
+   ],
+   "year": "2026",
+   "featured": false,
+   "published": true,
+   "alt": "Magik in a yellow and black kimono-style outfit swinging a glowing sword before a large red sun and swirling gold clouds.",
+   "display": {
+    "fit": "cover",
+    "position": "center",
+    "size": "standard",
+    "background": "ivory",
+    "border": "thin",
+    "animation": "rise",
+    "mat": "none",
+    "caption": "hover"
+   },
+   "image": "/uploads/6622f36468d2.jpg",
+   "thumb": "/uploads/6622f36468d2.jpg",
+   "width": 1891,
+   "height": 2048,
+   "created": 1794207807,
+   "updated": 1794207901
+  },
+  {
+   "id": "85caa926cdd9",
+   "seedKey": "polaris",
+   "title": "Polaris",
+   "description": "Polaris fan art.",
+   "tags": [
+    "polaris",
+    "x-men",
+    "marvel",
+    "green"
+   ],
+   "category": "Fan Art",
+   "links": [
+    {
+     "label": "Original post on X",
+     "url": "https://x.com/TheIceVirus/status/2059947288571658636"
+    }
+   ],
+   "year": "2026",
+   "featured": false,
+   "published": true,
+   "alt": "Polaris with long green hair and green lipstick, in a green jacket with an X emblem, crouched against a green panel.",
+   "display": {
+    "fit": "cover",
+    "position": "top",
+    "size": "standard",
+    "background": "void",
+    "border": "silver",
+    "animation": "fade",
+    "mat": "none",
+    "caption": "hover"
+   },
+   "image": "/uploads/85caa926cdd9.jpg",
+   "thumb": "/uploads/85caa926cdd9.jpg",
+   "width": 1531,
+   "height": 2048,
+   "created": 1794207808,
+   "updated": 1794207901
+  },
+  {
+   "id": "847cfdb56eb9",
+   "seedKey": "sue",
+   "title": "Sue Storm",
+   "description": "Sue Storm, the Invisible Woman.",
+   "tags": [
+    "invisible woman",
+    "fantastic four",
+    "marvel",
+    "blue"
+   ],
+   "category": "Fan Art",
+   "links": [
+    {
+     "label": "Original post on X",
+     "url": "https://x.com/TheIceVirus/status/2062263840201658727"
+    }
+   ],
+   "year": "2026",
+   "featured": false,
+   "published": true,
+   "alt": "Sue Storm with blonde hair in a blue Fantastic Four suit, holding two translucent force-field spheres against a blue background.",
+   "display": {
+    "fit": "cover",
+    "position": "top",
+    "size": "standard",
+    "background": "moonlit",
+    "border": "thin",
+    "animation": "rise",
+    "mat": "none",
+    "caption": "hover"
+   },
+   "image": "/uploads/847cfdb56eb9.jpg",
+   "thumb": "/uploads/847cfdb56eb9.jpg",
+   "width": 1551,
+   "height": 2048,
+   "created": 1794207809,
+   "updated": 1794207901
+  },
+  {
+   "id": "6badd2235a51",
+   "seedKey": "isabale",
+   "title": "Isabale",
+   "description": "Isabale, one of his original characters.",
+   "tags": [
+    "original",
+    "oc",
+    "witch",
+    "character sheet"
+   ],
+   "category": "Original Characters",
+   "links": [
+    {
+     "label": "Original post on X",
+     "url": "https://x.com/TheIceVirus/status/2084687648418066740"
+    }
+   ],
+   "year": "2026",
+   "featured": false,
+   "published": true,
+   "alt": "A character sheet of a blonde woman in a black witch hat with an orange band and dark overalls, shown in four poses with apples and dark tendrils.",
+   "display": {
+    "fit": "contain",
+    "position": "center",
+    "size": "wide",
+    "background": "ivory",
+    "border": "thin",
+    "animation": "fade",
+    "mat": "none",
+    "caption": "hover"
+   },
+   "image": "/uploads/6badd2235a51.jpg",
+   "thumb": "/uploads/6badd2235a51.jpg",
+   "width": 2048,
+   "height": 2026,
+   "created": 1794207810,
+   "updated": 1794207901
+  },
+  {
+   "id": "377a454ab914",
+   "seedKey": "taliyah",
+   "title": "Taliyah (Ra)",
+   "description": "Taliyah, also called Ra. One of his original characters, drawn again after a long break.",
+   "tags": [
+    "original",
+    "oc",
+    "taliyah",
+    "ra"
+   ],
+   "category": "Original Characters",
+   "links": [
+    {
+     "label": "Original post on X",
+     "url": "https://x.com/TheIceVirus/status/2063667465033584896"
+    }
+   ],
+   "year": "2026",
+   "featured": false,
+   "published": true,
+   "alt": "A dark-skinned woman with black and white hair in a bun, wearing a red top and black pants, kneeling against a bright yellow background.",
+   "display": {
+    "fit": "cover",
+    "position": "top",
+    "size": "standard",
+    "background": "crimson",
+    "border": "gilded",
+    "animation": "rise",
+    "mat": "none",
+    "caption": "hover"
+   },
+   "image": "/uploads/377a454ab914.jpg",
+   "thumb": "/uploads/377a454ab914.jpg",
+   "width": 1622,
+   "height": 2048,
+   "created": 1794207811,
+   "updated": 1794207901
+  }
+ ],
+ "collections": [
+  {
+   "id": "3d953d194557",
+   "name": "Court of Sorrows",
+   "description": "Fools, saints and sinners who outlived their audience.",
+   "artworks": [
+    "aa6ffcdfdfa2",
+    "e8da6fecf400",
+    "e869eee72991"
+   ],
+   "cover": "aa6ffcdfdfa2",
+   "created": 1794181369,
+   "seedKey": "sorrows"
+  },
+  {
+   "id": "4932b8727b46",
+   "name": "Tender Things",
+   "description": "The softer pieces.",
+   "artworks": [
+    "a0b94b71685c"
+   ],
+   "cover": "a0b94b71685c",
+   "created": 1794181369,
+   "seedKey": "tender"
+  },
+  {
+   "id": "35ac9265dc79",
+   "seedKey": "heroines",
+   "name": "Heroines of the Storm",
+   "description": "Marvel fan art, mostly Magik.",
+   "artworks": [
+    "332f304c0b61",
+    "a67b7127b8bd",
+    "34be4ad372e9",
+    "6622f36468d2",
+    "85caa926cdd9",
+    "847cfdb56eb9"
+   ],
+   "cover": "332f304c0b61",
+   "created": 1794207901
+  },
+  {
+   "id": "35b4fcf52122",
+   "seedKey": "originals",
+   "name": "Original Souls",
+   "description": "His original characters.",
+   "artworks": [
+    "e869eee72991",
+    "6badd2235a51",
+    "377a454ab914"
+   ],
+   "cover": "e869eee72991",
+   "created": 1794207901
+  }
+ ],
+ "journal": [],
+ "settings": {
+  "siteTitle": "The Parliament",
+  "tagline": "Some things were never meant to be remembered.",
+  "artistName": "TheIceVirus",
+  "about": "Vi, also known as TheIceVirus. Artist and streamer. Draws a lot of Marvel characters (mostly Magik) and original characters like Isabale, Taliyah and Sutrah, the King in Yellow. Streams Deadlock, Dragon's Dogma II and art on Twitch.\n\nCommissions are open.",
+  "featuredId": "e8da6fecf400",
+  "defaultLayout": "masonry",
+  "portraitImage": "/uploads/portrait.png",
+  "portraitCaption": "My Twitch profile picture. Come say hi on stream.",
+  "portraitLink": "https://www.twitch.tv/theicevirus",
+  "links": [
+   {
+    "label": "Twitch",
+    "url": "https://www.twitch.tv/theicevirus"
+   },
+   {
+    "label": "X",
+    "url": "https://x.com/TheIceVirus"
+   },
+   {
+    "label": "Instagram",
+    "url": "https://www.instagram.com/the_ice_virus/"
+   }
+  ],
+  "categories": [
+   "Character Art",
+   "Portraits",
+   "Illustration",
+   "Sketches"
+  ]
+ },
+ "seeded": [
+  "devotion",
+  "isabale",
+  "jester",
+  "king",
+  "magik",
+  "magik-ukiyo",
+  "polaris",
+  "scarlet",
+  "storm",
+  "sue",
+  "taliyah"
+ ],
+ "copyRev": 2,
+ "look": {
+  "colors": {
+   "crimson": "#b3202f",
+   "crimsonHot": "#e0384a",
+   "blood": "#7e0d1d",
+   "burgundy": "#3f0c16",
+   "ivory": "#ebe3d1",
+   "silver": "#bdb8c2",
+   "black": "#07060a",
+   "gold": "#d8b878",
+   "moon": "#c3192c"
+  },
+  "glass": [
+   "#d81f35",
+   "#9c1024",
+   "#5a0716",
+   "#1f4fd1",
+   "#6b2bb8",
+   "#e8a23a"
+  ],
+  "fonts": {
+   "title": "Cinzel Decorative",
+   "head": "Cormorant SC",
+   "body": "Cormorant Garamond"
+  },
+  "intro": {
+   "enabled": true,
+   "soundChoice": true,
+   "inscription": "ARCHIVVM · RERVM · QVAE · NON · DEBENT · ESSE",
+   "button": "Enter the Archive",
+   "hint": "",
+   "beginText": "Welcome to the archive."
+  },
+  "effects": {
+   "embers": 50,
+   "fog": true,
+   "watcher": true,
+   "moon": true,
+   "rays": true,
+   "candles": true,
+   "parallax": true,
+   "sparkles": true
+  },
+  "nav": {
+   "archive": "The Archive",
+   "collections": "The Collections",
+   "journal": "The Journal",
+   "relics": "The Relics",
+   "beyond": "Beyond the Cathedral"
+  },
+  "customCSS": ""
+ }
+}
