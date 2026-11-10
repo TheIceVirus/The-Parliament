@@ -1,0 +1,74 @@
+BRIAR CHRONICLES  (version 4)
+==============================
+
+New in version 4: people can leave comments under your art.
+You can read and remove them in your dashboard under "Comments",
+or turn comments off there.
+
+
+PUT IT ONLINE (so it has a real link)
+-------------------------------------
+Your site needs a host that can run server.py. GitHub Pages can't,
+so we use Render. It's about $7 a month.
+
+Step 1. Put this version on GitHub
+  1. Open your repo: github.com/TheIceVirus/The-Parliament
+  2. Click the old "BRIAR CHRONICLES v3" folder. Click the "..." button
+     at the top right and choose "Delete directory". Commit.
+  3. Back on the main page of the repo, click "Add file", then
+     "Upload files".
+  4. Open THIS folder on your computer, select everything inside it
+     (Ctrl+A), and drag it onto the GitHub page.
+     The files must sit at the top of the repo, not inside a folder.
+     You should see server.py and render.yaml on the repo's main page.
+  5. Click "Commit changes".
+
+Step 2. Turn it on with Render
+  1. Go to render.com and sign up with your GitHub account.
+  2. Click "New", then "Blueprint".
+  3. Pick The-Parliament and click "Apply".
+  4. It's already set to the paid "Starter" plan. Don't switch it to
+     Free. The free plan wipes your uploads and password every time
+     it restarts.
+  5. Wait a few minutes. Render shows your link, something like
+     https://briar-chronicles.onrender.com
+
+Step 3. Lock it
+  Open your link, scroll to the bottom, click "The keeper's door",
+  sign in with  sutrah  and change your password right away under
+  "Profile & links". Everyone can reach the online site, so don't
+  keep the starting password.
+
+The online site starts fresh. Art you uploaded on your own computer
+doesn't move over by itself. Upload it again from the online dashboard.
+
+To update the site later: upload the new files to GitHub the same way.
+Render sees the change and updates the site in a few minutes. Your art,
+comments and password stay.
+
+
+RUN IT ON YOUR OWN COMPUTER (optional)
+--------------------------------------
+  1. Close EVERY black BRIAR CHRONICLES window from older versions.
+  2. Make sure this folder is unzipped (right-click the zip,
+     "Extract All", then open the extracted folder).
+  3. Want to keep art from an old copy? Copy the "data" folder from the
+     old copy into this folder, next to server.py.
+  4. Double-click  START BRIAR CHRONICLES.bat
+     (On a Mac: START BRIAR CHRONICLES.command)
+  5. Leave the black window open while you use it.
+
+  This needs Python (free) from https://www.python.org/downloads/
+  Tick "Add python.exe to PATH" during setup.
+
+You should see "Version 4" at the bottom of the site and in your
+dashboard. If you see an older number, an old copy is still running.
+
+
+SIGN IN
+-------
+Scroll to the bottom of any page and click "The keeper's door".
+Starting password:  sutrah
+
+Everything else (uploading, frames, layout, fonts, links) is explained
+in HOW TO USE.md. You can open that file with Notepad.

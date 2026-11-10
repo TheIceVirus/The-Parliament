@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>The Sacristy · Briar Chronicles</title>
+<link rel="icon" href="/img/sigil.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700&family=Cinzel:wght@400;500;600&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=IM+Fell+English:ital@0;1&display=swap">
+<link rel="stylesheet" href="/css/style.css">
+<link rel="stylesheet" href="/css/admin.css">
+<script type="module" src="/js/admin.js"></script>
+</head>
+<body class="admin">
+
+<!-- sign in -->
+<section class="gate" id="gate" hidden>
+  <form class="gate-card" id="loginForm">
+    <img src="/img/sigil.svg" alt="" width="56" height="56">
+    <h1>The Sacristy</h1>
+    <p class="muted">Only the keeper of the archive may pass.</p>
+    <label class="f"><span>Password</span><input type="password" id="pw" autocomplete="current-password" required></label>
+    <button class="btn" type="submit">Unseal</button>
+    <p class="err" id="loginErr" role="alert"></p>
+    <a class="back" href="/">← Return to the archive</a>
+  </form>
+</section>
+
+<!-- dashboard -->
+<div class="dash" id="dash" hidden>
+  <aside class="side">
+    <a class="brand" href="/" target="_blank" rel="noopener"><img class="sigil" src="/img/sigil.svg" alt=""><span class="brand-text">The Sacristy</span></a>
+    <p class="whoami" id="whoami"></p>
+    <p class="site-version" id="siteVersion"></p>
+    <nav class="tabs" aria-label="Dashboard">
+      <button type="button" data-tab="editor">Upload artwork</button>
+      <button type="button" data-tab="relics">My artworks</button>
+      <button type="button" data-tab="collections">Collections</button>
+      <button type="button" data-tab="journal">Journal</button>
+      <button type="button" data-tab="comments">Comments</button>
+      <button type="button" data-tab="labels">Tags &amp; categories</button>
+      <button type="button" data-tab="profile">Profile &amp; links</button>
+      <button type="button" data-tab="words" data-role="keeper">Fonts &amp; text</button>
+      <button type="button" data-tab="layout">Layout &amp; frames</button>
+      <span class="tabs-sep" data-role="designer">Designer</span>
+      <button type="button" data-tab="appearance" data-role="designer">Appearance</button>
+      <button type="button" data-tab="site" data-role="designer">Site &amp; passwords</button>
+    </nav>
+    <div class="side-foot">
+      <a class="btn" href="/?preview=1#/archive" target="_blank" rel="noopener">Preview site</a>
+      <a class="btn ghost" href="/" target="_blank" rel="noopener">Public site</a>
+      <button class="linklike bday-link" type="button" id="bdayOpen">✦ Birthday note</button>
+      <button class="linklike" type="button" id="logout">Sign out</button>
+    </div>
+  </aside>
+  <main class="panel" id="panel" tabindex="-1"></main>
+</div>
+
+<!-- a birthday note -->
+<div class="bday" id="bday" role="dialog" aria-modal="true" aria-labelledby="bdayTitle" hidden>
+  <div class="bday-veil"></div>
+  <div class="bday-card">
+    <div class="bday-rose" id="bdayRose" aria-hidden="true"></div>
+    <div class="bday-glints" id="bdayGlints" aria-hidden="true"></div>
+    <div class="bday-body">
+      <p class="bday-orn" aria-hidden="true">✠</p>
+      <h2 class="bday-title" id="bdayTitle">Happy Birthday</h2>
+      <div class="bday-rule" aria-hidden="true"><span></span><i>✦</i><span></span></div>
+      <p class="bday-from">from SheDithers</p>
+      <div class="bday-candles" aria-hidden="true"></div>
+      <button class="btn-begin bday-close" type="button" id="bdayClose"><span>Thank you</span></button>
+    </div>
+  </div>
+</div>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+</body>
+</html>
